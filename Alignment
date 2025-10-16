@@ -1,0 +1,35 @@
+
+Here’s your **BLASTp result** converted into a clean, readable **table format** 👇
+
+| **Description**                             | **Scientific Name**            | **Max Score** | **Total Score** | **Query Cover** | **E value** | **Per. Ident** | **Acc. Len** | **Accession**  |
+| ------------------------------------------- | ------------------------------ | ------------- | --------------- | --------------- | ----------- | -------------- | ------------ | -------------- |
+| insulin, isoform 2 precursor                | *Homo sapiens*                 | 400           | 400             | 100%            | 4e-140      | 100.00%        | 200          | NP_001035835.1 |
+| INSIGF short transcript variant             | *Homo sapiens*                 | 397           | 397             | 100%            | 7e-139      | 99.50%         | 200          | ABD93452.1     |
+| insulin isoform X1                          | *Symphalangus syndactylus*     | 382           | 382             | 100%            | 4e-133      | 96.06%         | 203          | XP_055150523.1 |
+| insulin isoform X1                          | *Nomascus leucogenys*          | 379           | 379             | 100%            | 5e-132      | 95.07%         | 203          | XP_030667340.1 |
+| insulin isoform X1                          | *Hylobates moloch*             | 379           | 379             | 100%            | 6e-132      | 95.07%         | 203          | XP_032009710.1 |
+| insulin isoform X1                          | *Pongo abelii*                 | 379           | 379             | 100%            | 9e-132      | 95.07%         | 203          | XP_024110664.1 |
+| PREDICTED: insulin isoform X1               | *Colobus angolensis palliatus* | 279           | 279             | 100%            | 4e-92       | 82.35%         | 204          | XP_011785463.1 |
+| hypothetical protein EGK_05866              | *Macaca mulatta*               | 275           | 275             | 100%            | 2e-90       | 85.78%         | 204          | EHH22569.1     |
+| hypothetical protein KI723_110117           | *Homo sapiens*                 | 271           | 271             | 69%             | 7e-90       | 100.00%        | 149          | KAI2558106.1   |
+| hypothetical protein EGM_05294              | *Macaca fascicularis*          | 269           | 269             | 100%            | 2e-88       | 84.31%         | 204          | EHH55978.1     |
+| insulin isoform X1                          | *Theropithecus gelada*         | 259           | 259             | 97%             | 8e-84       | 84.26%         | 234          | XP_025211009.1 |
+| insulin                                     | *Balaenoptera ricei*           | 246           | 246             | 100%            | 2e-79       | 76.10%         | 205          | XP_059785850.1 |
+| hypothetical protein PANDA_008883 (partial) | *Ailuropoda melanoleuca*       | 243           | 243             | 100%            | 8e-78       | 69.63%         | 212          | EFB20036.1     |
+| insulin                                     | *Cynocephalus volans*          | 241           | 241             | 100%            | 3e-77       | 73.00%         | 200          | XP_062948542.1 |
+| insulin-like                                | *Orycteropus afer afer*        | 236           | 236             | 100%            | 2e-75       | 69.90%         | 205          | XP_042638051.1 |
+| hypothetical protein H8959_002583           | *Pygathrix nigripes*           | 244           | 244             | 93%             | 8e-75       | 80.53%         | 492          | KAL4696885.1   |
+| PREDICTED: insulin, isoform 2-like          | *Galeopterus variegatus*       | 225           | 225             | 92%             | 4e-71       | 72.83%         | 200          | XP_008576869.1 |
+| insulin                                     | *Phodopus roborovskii*         | 217           | 217             | 100%            | 1e-67       | 67.32%         | 204          | XP_051049403.1 |
+| insulin-like growth factor II-B             | *Equus quagga*                 | 213           | 213             | 92%             | 8e-64       | 76.06%         | 370          | XP_046500594.1 |
+| hypothetical protein EI555_000368 (partial) | *Monodon monoceros*            | 197           | 197             | 91%             | 5e-59       | 65.17%         | 271          | TKC52250.1     |
+| insulin-like growth factor ii-like          | *Lynx pardinus*                | 199           | 199             | 93%             | 1e-58       | 72.02%         | 374          | VFV42100.1     |
+| INS-IGF2 readthrough                        | *Molossus molossus*            | 185           | 185             | 100%            | 4e-55       | 66.67%         | 207          | KAF6437779.1   |
+| insulin-like (partial)                      | *Carlito syrichta*             | 174           | 174             | 74%             | 2e-51       | 78.67%         | 150          | XP_008048481.1 |
+| insulin isoform X1                          | *Mastomys coucha*              | 178           | 178             | 86%             | 1e-50       | 60.75%         | 357          | XP_031244803.1 |
+| uncharacterized protein                     | *Vicugna pacos*                | 165           | 165             | 62%             | 2e-46       | 71.65%         | 268          | XP_072826838.1 |
+| insulin-like                                | *Loxodonta africana*           | 157           | 157             | 62%             | 6e-45       | 69.29%         | 152          | XP_064143645.1 |
+
+---
+
+Would you like me to convert this into an **Excel (.xlsx)** or **Word (.docx)** table file so you can download and use it directly?
